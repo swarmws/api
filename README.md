@@ -1,5 +1,5 @@
 # swarm-api
 
-Backend for [swarm.ws](https://swarm.ws) — comic/manga metadata, chapters, sources, and related services.
+part of the backend for [swarm.ws](https://swarm.ws)  comic/manga metadata, chapters, sources, and related services.
 
-Built over ~4 months.
+Built over ~4 months. over 900+ sources 20k+ chapters a hour 10k+ new series a day
